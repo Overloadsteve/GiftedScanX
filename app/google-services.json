@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485452276234",
+    "project_id": "readbookforme-f54b9",
+    "storage_bucket": "readbookforme-f54b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485452276234:android:4968d047f8d41de45eb5f3",
+        "android_client_info": {
+          "package_name": "com.overloadsteve.giftedscanx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjaArmh3Rs8khSjUvk5LmBMEjBqt6trg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
